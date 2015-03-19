@@ -1,0 +1,25 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ssicss_schlib.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "E:\项目管理\git共用库\AllegroLib\SCHLib\ssicss_schlib.olb")
+      (Select "Design Resources"
+         "E:\项目管理\git共用库\AllegroLib\SCHLib\ssicss_schlib.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 568"))
+      (Tab 0)))
+  (MPSSessionName "Administrator"))
