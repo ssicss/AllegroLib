@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:01)     Journal start - Mon Mar 30 19:35:04 2015
+\t (00:00:01)         Host=WINDOWS-FPS47NM User=Administrator Pid=5092 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 635
+\i (00:00:03) trapsize 624
+\i (00:00:03) trapsize 637
+\i (00:00:03) trapsize 1044
+\i (00:00:04) generaledit 
+\i (00:00:09) open 
+\i (00:00:32) fillin "menu_cancel"
+\i (00:00:32) generaledit 
+\i (00:00:33) new 
+\i (00:00:49) newdrawfillin "boost.brd" "Board"
+\t (00:00:49)     Journal end - Mon Mar 30 19:35:52 2015
