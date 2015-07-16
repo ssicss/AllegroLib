@@ -1,0 +1,384 @@
+\t (00:00:01) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:01)     Journal start - Thu Jul 16 17:04:50 2015
+\t (00:00:01)         Host=SSICSS-PC User=ssicss Pid=5816 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 635
+\i (00:00:03) trapsize 624
+\i (00:00:03) trapsize 637
+\i (00:00:03) trapsize 1044
+\i (00:00:04) generaledit 
+\i (00:00:05) new 
+\i (00:00:40) newdrawfillin "pdso-g5.dra" "Package Symbol"
+\t (00:00:40) Starting new design...
+\i (00:00:40) trapsize 637
+\i (00:00:40) trapsize 624
+\i (00:00:40) trapsize 637
+\i (00:00:40) trapsize 1044
+\i (00:00:40) trapsize 1044
+\i (00:00:40) generaledit 
+\i (00:00:42) pick grid 10672.0 11256.8
+\t (00:00:42) last pick:  10700.0  11300.0
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 16206.4 9105.7
+\i (00:00:42) trapsize 1044
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 16373.5 9251.8
+\i (00:00:42) trapsize 1044
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 16373.5 9272.7
+\i (00:00:42) trapsize 1044
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 16373.5 9272.7
+\i (00:00:42) trapsize 1044
+\i (00:00:42) prepopup 8813.3 12551.6
+\i (00:00:43) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:00:43) prmed 
+\i (00:00:45) setwindow form.prmedit
+\i (00:00:45) FORM prmedit text  
+\i (00:00:45) FORM prmedit design  
+\i (00:00:47) FORM prmedit units Millimeter 
+\e (00:00:47) Change may cause round-off; run dbcheck.
+\i (00:00:52) FORM prmedit x -100.0000 
+\i (00:00:55) FORM prmedit y -100.0000 
+\i (00:00:55) FORM prmedit text  
+\i (00:00:56) FORM prmedit design  
+\i (00:00:57) FORM prmedit text  
+\i (00:00:59) FORM prmedit display  
+\i (00:01:01) FORM prmedit display_plated_holes YES 
+\i (00:01:02) FORM prmedit view_grids_button  
+\t (00:01:02) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:05) setwindow form.grid
+\i (00:01:05) FORM grid done  
+\i (00:01:06) setwindow form.prmedit
+\i (00:01:06) FORM prmedit apply  
+\w (00:01:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:06) setwindow pcb
+\i (00:01:06) trapsize 26523
+\t (00:01:06) Performing DRC...
+\t (00:01:06) No DRC errors detected.
+\i (00:01:07) setwindow form.prmedit
+\i (00:01:07) FORM prmedit view_grids_button  
+\t (00:01:07) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:09) setwindow form.grid
+\i (00:01:09) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:01:10) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:01:10) FORM grid done  
+\i (00:01:11) setwindow form.prmedit
+\i (00:01:11) FORM prmedit done  
+\i (00:01:11) setwindow pcb
+\i (00:01:11) generaledit 
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 5.5629 -1.3332
+\i (00:01:13) trapsize 13262
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 5.5629 -1.5984
+\i (00:01:13) trapsize 6631
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 3.3084 -1.5984
+\i (00:01:13) trapsize 3315
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 6.8228 0.6561
+\i (00:01:13) trapsize 6631
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 0.3245 -0.8026
+\i (00:01:14) trapsize 3315
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 0.3246 -0.8026
+\i (00:01:14) trapsize 1658
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 0.3246 -0.8025
+\i (00:01:14) trapsize 829
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 0.3246 -0.8025
+\i (00:01:14) trapsize 414
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 0.3246 -0.8025
+\i (00:01:14) trapsize 207
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out -0.0649 -0.1477
+\i (00:01:15) trapsize 414
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 0.1339 -0.1228
+\i (00:01:15) trapsize 829
+\i (00:01:18) add pin 
+\i (00:01:19) setwindow form.mini
+\i (00:01:19) FORM mini pad_browse  
+\i (00:01:42) fillin "smdr0r6.pad"
+\e (00:01:42) ERROR(SPMHAP-7): Illegal pad name.
+\i (00:01:45) FORM mini pad_browse  
+\t (00:01:49) No valid name selected.
+\i (00:02:00) fillin "menu_cancel"
+\i (00:04:20) setwindow pcb
+\i (00:04:20) pick grid 9.9144 2.6787
+\t (00:04:20) last pick:  9.9000  2.7000
+\e (00:04:20) ERROR(SPMHAP-2): No padstack specified.
+\i (00:04:21) setwindow form.mini
+\i (00:04:21) FORM mini pad_browse  
+\t (00:04:27) No valid name selected.
+\i (00:04:30) fillin "Smdr0r60x1r05"
+\t (00:04:30) Using 'SMDR0R60X1R05.pad'.
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom out 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom out 6.5824 1.9991
+\i (00:04:31) trapsize 1658
+\i (00:04:31) zoom out 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom out 8.0743 1.9990
+\i (00:04:31) trapsize 3315
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -0.1479 0.0098
+\i (00:04:32) trapsize 1658
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -0.1479 0.0098
+\i (00:04:32) trapsize 829
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -0.1479 0.0099
+\i (00:04:32) trapsize 414
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -0.1479 0.0099
+\i (00:04:32) trapsize 207
+\i (00:05:02) setwindow form.mini
+\i (00:05:02) FORM mini x_count 3 
+\i (00:05:22) FORM mini x_spacing 0.9500 
+\i (00:05:35) FORM mini offsetx -0.0000 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) pick 0 0 
+\t (00:05:41) last pick:  0.0000  0.0000
+\t (00:05:41) Using 'SMDR0R60X1R05.pad'.
+\i (00:05:43) zoom out 1 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom out 1.6052 -0.6408
+\i (00:05:43) trapsize 414
+\i (00:05:51) setwindow form.mini
+\i (00:05:51) FORM mini x_count 1 
+\i (00:05:59) FORM mini x_count 2 
+\i (00:06:00) FORM mini x_direction Left 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) pick 1.9 2.7 
+\t (00:06:16) last pick:  1.9000  2.7000
+\t (00:06:16) Using 'SMDR0R60X1R05.pad'.
+\i (00:06:17) prepopup 4.4896 2.3763
+\i (00:06:18) oops 
+\t (00:06:18) last pick:  0.0000  0.0000
+\t (00:06:18) Using 'SMDR0R60X1R05.pad'.
+\i (00:06:27) setwindow form.mini
+\i (00:06:27) FORM mini x_spacing 1.9000 
+\i (00:06:31) setwindow pcb
+\i (00:06:31) pick 1.9 2.7 
+\t (00:06:31) last pick:  1.9000  2.7000
+\t (00:06:31) Using 'SMDR0R60X1R05.pad'.
+\i (00:06:32) prepopup 3.2297 1.3320
+\i (00:06:33) done 
+\t (00:06:33) Exiting from Add Pin.
+\i (00:06:33) generaledit 
+\i (00:22:57) zoom in 1 
+\i (00:22:57) setwindow pcb
+\i (00:22:57) zoom in 1.2238 0.2627
+\i (00:22:57) trapsize 207
+\i (00:22:57) zoom in 1 
+\i (00:22:57) setwindow pcb
+\i (00:22:57) zoom in 1.2238 0.2627
+\i (00:22:57) trapsize 104
+\i (00:22:57) zoom out 1 
+\i (00:22:57) setwindow pcb
+\i (00:22:57) zoom out 1.2238 0.2627
+\i (00:22:57) trapsize 207
+\i (00:22:57) zoom out 1 
+\i (00:22:57) setwindow pcb
+\i (00:22:57) zoom out 1.2238 0.2627
+\i (00:22:57) trapsize 414
+\i (00:22:57) zoom out 1 
+\i (00:22:57) setwindow pcb
+\i (00:22:57) zoom out 1.2238 0.2628
+\i (00:22:57) trapsize 829
+\i (00:22:58) zoom in 1 
+\i (00:22:58) setwindow pcb
+\i (00:22:58) zoom in 0.5442 1.6055
+\i (00:22:58) trapsize 414
+\i (00:26:12) add line 
+\i (00:26:17) setwindow form.mini
+\i (00:26:17) FORM mini line_width 0.0100 
+\i (00:27:46) setwindow pcb
+\i (00:27:46) pick -0.5 0.55 
+\t (00:27:46) last pick:  -0.5000  0.5500
+\i (00:27:51) ipick 2.9 
+\t (00:27:51) last pick:  2.4000  0.5500
+\i (00:27:54) ipick 0 1.6 
+\t (00:27:54) last pick:  2.4000  2.1500
+\i (00:27:58) ipick -2.9 
+\t (00:27:58) last pick:  -0.5000  2.1500
+\i (00:28:01) ipick 0 -1.6 
+\t (00:28:01) last pick:  -0.5000  0.5500
+\i (00:28:02) prepopup -2.0169 1.7962
+\i (00:28:03) done 
+\i (00:28:03) generaledit 
+\i (00:28:03) zoom in 1 
+\i (00:28:03) setwindow pcb
+\i (00:28:03) zoom in 0.5608 2.0697
+\i (00:28:03) trapsize 207
+\i (00:28:03) zoom in 1 
+\i (00:28:03) setwindow pcb
+\i (00:28:03) zoom in 0.5318 2.0821
+\i (00:28:03) trapsize 104
+\i (00:28:04) zoom out 1 
+\i (00:28:04) setwindow pcb
+\i (00:28:04) zoom out 0.3184 2.3411
+\i (00:28:04) trapsize 207
+\i (00:28:05) zoom in 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom in -0.0008 0.5094
+\i (00:28:05) trapsize 104
+\i (00:28:05) zoom in 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom in -0.0008 0.5094
+\i (00:28:05) trapsize 52
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out -0.0019 0.5105
+\i (00:28:05) trapsize 104
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out -0.0018 0.5104
+\i (00:28:05) trapsize 207
+\i (00:28:05) zoom out 1 
+\i (00:28:05) setwindow pcb
+\i (00:28:05) zoom out -0.0018 0.5104
+\i (00:28:05) trapsize 414
+\i (00:28:06) zoom in 1 
+\i (00:28:06) setwindow pcb
+\i (00:28:06) zoom in 0.7442 1.6874
+\i (00:28:06) trapsize 207
+\i (00:28:09) add line 
+\i (00:28:13) setwindow form.mini
+\i (00:28:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:28:16) FORM mini line_width 0.1500 
+\i (00:28:26) setwindow pcb
+\i (00:28:26) pick -0.5 0.55 
+\t (00:28:26) last pick:  -0.5000  0.5500
+\i (00:28:31) ipick 2.9 
+\t (00:28:31) last pick:  2.4000  0.5500
+\i (00:28:35) ipick 0 1.6 
+\t (00:28:35) last pick:  2.4000  2.1500
+\i (00:28:39) ipick -2.9 
+\t (00:28:39) last pick:  -0.5000  2.1500
+\i (00:28:42) ipick 0 -1.6 
+\t (00:28:42) last pick:  -0.5000  0.5500
+\i (00:28:43) prepopup -1.0088 1.8863
+\i (00:28:44) done 
+\i (00:28:44) generaledit 
+\i (00:28:48) shape add rect 
+\i (00:28:53) setwindow form.mini
+\i (00:28:53) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:28:59) setwindow pcb
+\i (00:28:59) pick -0.5 0.55 
+\t (00:28:59) last pick:  -0.5000  0.5500
+\i (00:29:23) pick 2.4 2.15 
+\t (00:29:23) last pick:  2.4000  2.1500
+\i (00:29:24) prepopup 3.0441 2.2593
+\i (00:29:24) done 
+\i (00:29:24) generaledit 
+\i (00:29:25) pick grid 3.1767 2.4375
+\t (00:29:25) last pick:  3.2000  2.4000
+\i (00:29:25) tab 
+\i (00:29:25) setwindow pcb
+\i (00:29:25) mouse_pos 3.0110 2.5328
+\i (00:29:25) tab
+\i (00:29:36) package_height 
+\i (00:29:37) pick grid 0.6861 1.5713
+\t (00:29:37) last pick:  0.7000  1.6000
+\i (00:29:39) setwindow form.mini
+\i (00:29:39) FORM mini height_min 0 
+\i (00:29:41) FORM mini height_max 1.45 
+\i (00:29:42) setwindow pcb
+\i (00:29:42) prepopup 2.8452 2.9265
+\i (00:29:42) done 
+\i (00:29:42) generaledit 
+\i (00:29:42) pick grid 2.9778 3.1129
+\t (00:29:42) last pick:  3.0000  3.1000
+\i (00:29:43) zoom out 1 
+\i (00:29:43) setwindow pcb
+\i (00:29:43) zoom out 0.8685 3.0383
+\i (00:29:43) trapsize 414
+\i (00:29:43) zoom out 1 
+\i (00:29:43) setwindow pcb
+\i (00:29:43) zoom out 0.8768 3.0384
+\i (00:29:43) trapsize 829
+\i (00:29:44) zoom in 1 
+\i (00:29:44) setwindow pcb
+\i (00:29:44) zoom in 1.1752 2.1599
+\i (00:29:44) trapsize 414
+\i (00:29:49) add text 
+\t (00:29:49) Pick text location.
+\i (00:29:53) setwindow form.mini
+\i (00:29:53) FORM mini class REF DES 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom out 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom out 2.1118 0.4774
+\i (00:29:54) trapsize 829
+\i (00:29:54) zoom out 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom out 2.3769 0.3283
+\i (00:29:54) trapsize 1658
+\i (00:29:54) zoom in 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom in 0.5536 2.3506
+\i (00:29:54) trapsize 829
+\i (00:29:54) zoom in 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom in 0.5536 2.3507
+\i (00:29:54) trapsize 414
+\i (00:29:55) pick grid 0.0066 1.7788
+\t (00:29:55) last pick:  0.0000  1.8000
+\t (00:29:55) Enter text string.
+\i (00:30:00) setwindow form.mini
+\i (00:30:00) FORM mini class DEVICE TYPE 
+\i (00:30:01) setwindow pcb
+\i (00:30:01) pick grid 0.1309 1.2318
+\t (00:30:01) last pick:  0.1000  1.2000
+\i (00:30:01) setwindow pcb
+\i (00:30:01) pick 0.0000 1.8000
+\t (00:30:01) Enter text string.
+\i (00:30:15) setwindow form.mini
+\i (00:30:15) FORM mini class COMPONENT VALUE 
+\i (00:30:17) setwindow pcb
+\i (00:30:17) pick grid -0.0100 0.6682
+\t (00:30:17) last pick:  0.0000  0.7000
+\i (00:30:17) setwindow pcb
+\i (00:30:17) pick 0.1000 1.2000
+\t (00:30:17) Enter text string.
+\i (00:30:19) setwindow pcb
+\i (00:30:19) prepopup 3.9601 2.9889
+\i (00:30:20) done 
+\i (00:30:20) setwindow pcb
+\i (00:30:20) pick 0.0000 0.7000
+\i (00:30:20) setwindow pcb
+\i (00:30:20) generaledit 
+\i (00:30:20) pick grid 4.0513 3.3536
+\t (00:30:20) last pick:  4.1000  3.4000
+\i (00:30:22) save 
+\t (00:30:22) Symbol 'pdso-g5.psm' created.
+\i (00:30:22) generaledit 
+\i (00:30:25) exit 
+\t (00:30:25)     Journal end - Thu Jul 16 17:35:14 2015
