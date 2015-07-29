@@ -1,0 +1,68 @@
+\t (00:00:00) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:00)     Journal start - Wed Jul 29 15:13:50 2015
+\t (00:00:00)         Host=SSICSS-PC User=ssicss Pid=5368 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: D:/OneDrive/工作文件/git共用库/AllegroLib/temp/sot23.dra
+\i (00:00:00) trapsize 207
+\i (00:00:00) trapsize 203
+\i (00:00:00) trapsize 207
+\i (00:00:00) trapsize 207
+\i (00:00:00) generaledit 
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -0.2718 1.4699
+\i (00:00:01) trapsize 414
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 0.1758 -0.0718
+\i (00:00:02) trapsize 207
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.3298 -0.7679
+\i (00:00:04) trapsize 414
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 1.7920 -0.0552
+\i (00:00:53) trapsize 207
+\i (00:00:56) text edit 
+\i (00:00:58) prepopup 3.4330 1.6771
+\i (00:00:59) done 
+\i (00:00:59) generaledit 
+\i (00:00:59) pick grid 3.4330 1.6771
+\t (00:00:59) last pick:  3.4000  1.7000
+\i (00:01:04) text edit 
+\i (00:01:06) pick grid 1.7920 0.0526
+\t (00:01:06) last pick:  1.8000  0.1000
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick grid 0.0059 0.2101
+\t (00:01:11) last pick:  0.0000  0.2000
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick 1.7920 0.0526
+\t (00:01:11) Pick text to edit.
+\i (00:01:14) setwindow pcb
+\i (00:01:14) prepopup 0.9922 0.1438
+\i (00:01:14) done 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) pick 0.0059 0.2101
+\t (00:01:14) Pick text to edit.
+\i (00:01:14) setwindow pcb
+\i (00:01:14) generaledit 
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 1.3610 0.1106
+\i (00:01:15) trapsize 414
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 1.2450 0.0360
+\i (00:01:15) trapsize 829
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 0.6151 -0.0302
+\i (00:01:15) trapsize 414
+\i (00:01:18) save 
+\i (00:01:20) fillin yes 
+\t (00:01:20) Symbol 'sot23.psm' created.
+\i (00:01:20) generaledit 
+\i (00:01:22) exit 
+\t (00:01:22)     Journal end - Wed Jul 29 15:15:12 2015
