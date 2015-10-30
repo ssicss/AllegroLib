@@ -1,0 +1,24 @@
+\t (00:00:22) pad_designer 16.5 P002 (v16-5-13B) i86
+\t (00:00:22)     Journal start - Sat Jul 25 13:15:23 2015
+\t (00:00:22)         Host=SSICSS-PC User=ssicss Pid=4140 CPUs=4
+\t (00:00:22) 
+\i (00:00:24) FORM padedit layers  
+\i (00:00:31) FORM padedit width 1.1 
+\i (00:00:32) FORM padedit grid row begin_layer 
+\i (00:00:34) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:00:35) setwindow form.padcopy
+\i (00:00:35) FORM padcopy pse_copy_soldermask YES 
+\i (00:00:36) FORM padcopy pse_copy_pastemask YES 
+\i (00:00:37) FORM padcopy pse_copy_done  
+\i (00:00:38) setwindow form.padedit
+\i (00:00:38) FORM padedit crossbox YES 
+\i (00:00:39) FORM padedit stackbox YES 
+\i (00:00:40) FORM padedit parameters  
+\i (00:00:47) FORM padedit layers  
+\i (00:00:48) FORM padedit parameters  
+\i (00:00:48) FORM padedit layers  
+\i (00:00:50) FORM padedit parameters  
+\i (00:00:56) pse_save 
+\i (00:00:58) fillin yes 
+\i (00:01:01) pse_exit
+\t (00:01:01)     Journal end - Sat Jul 25 13:16:03 2015
