@@ -1,0 +1,59 @@
+\t (00:01:07) pad_designer 16.5 P002 (v16-5-13B) i86
+\t (00:01:07)     Journal start - Sun Nov 15 16:11:13 2015
+\t (00:01:07)         Host=SSICSS-PC User=ssicss Pid=4484 CPUs=4
+\t (00:01:07) 
+\i (00:01:09) FORM padedit units Millimeter 
+\i (00:01:10) fillin yes 
+\w (00:01:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:11) FORM padedit layers  
+\i (00:01:12) FORM padedit grid row begin_layer 
+\i (00:01:19) FORM padedit geometry Octagon 
+\i (00:01:31) FORM padedit width 1.5 
+\i (00:01:33) FORM padedit height 3.3 
+\i (00:01:34) FORM padedit crossbox YES 
+\i (00:01:38) FORM padedit geometry Oblong 
+\i (00:01:41) FORM padedit width 1.5 
+\i (00:01:48) FORM padedit grid row default_internal 
+\i (00:01:49) FORM padedit grid row begin_layer 
+\i (00:01:51) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:01:52) setwindow form.padcopy
+\i (00:01:52) FORM padcopy pse_copy_anti_pad NO 
+\i (00:01:53) FORM padcopy pse_copy_anti_pad YES 
+\i (00:01:54) FORM padcopy pse_copy_soldermask YES 
+\i (00:01:54) FORM padcopy pse_copy_pastemask YES 
+\i (00:01:56) FORM padcopy pse_copy_done  
+\i (00:01:59) setwindow form.padedit
+\i (00:01:59) FORM padedit grid row default_internal 
+\i (00:02:00) FORM padedit grid row end_layer 
+\i (00:02:00) FORM padedit grid row soldermask_top 
+\i (00:02:01) FORM padedit grid row soldermask_bottom 
+\i (00:02:12) FORM padedit stackbox YES 
+\i (00:02:15) FORM padedit parameters  
+\i (00:02:49) FORM padedit hole_type Oval Slot 
+\i (00:02:52) FORM padedit hole_size_x 0.9 
+\i (00:02:54) FORM padedit hole_size_y 2.7 
+\i (00:03:03) FORM padedit layers  
+\i (00:03:05) FORM padedit parameters  
+\i (00:03:06) FORM padedit layers  
+\i (00:03:11) pse_save 
+\i (00:03:14) pse_save 
+\i (00:03:15) fillin yes 
+\i (00:03:17) pse_save_as 
+\i (00:03:19) fillin "menu_cancel"
+\i (00:03:26) FORM padedit parameters  
+\i (00:03:29) FORM padedit hole_size_y 2.1 
+\i (00:03:30) FORM padedit layers  
+\i (00:03:39) FORM padedit grid row begin_layer 
+\i (00:03:42) FORM padedit height 2.7 
+\i (00:03:46) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:03:48) setwindow form.padcopy
+\i (00:03:48) FORM padcopy pse_copy_soldermask YES 
+\i (00:03:48) FORM padcopy pse_copy_pastemask YES 
+\i (00:03:48) FORM padcopy pse_copy_done  
+\i (00:03:50) setwindow form.padedit
+\i (00:03:50) FORM padedit crossbox YES 
+\i (00:03:51) FORM padedit stackbox YES 
+\i (00:03:53) pse_save_as 
+\i (00:04:13) fillin "THO1R50X2R70D0R90X2R10.pad"
+\i (00:04:14) pse_exit
+\t (00:04:14)     Journal end - Sun Nov 15 16:14:21 2015
