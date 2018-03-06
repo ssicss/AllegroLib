@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ic-qfp50p-2400x2400-176.dra                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Mar 06 17:34:00 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/stm32/tmp
+    Name      = ic-qfp50p-2400x2400-176.psm
+    User      = wangkai
+    Machine   = DESKTOP-TN8FG4E
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
