@@ -1,0 +1,10 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "MANUFACTURING/AUTOSILK_BOTTOM"
+color -vis "PIN/BOTTOM"
+color -vis "PIN/FILMMASKBOTTOM"
+color -vis "PIN/PASTEMASK_BOTTOM"
+color -vis "PIN/SOLDERMASK_BOTTOM"

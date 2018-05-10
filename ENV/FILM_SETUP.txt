@@ -1,0 +1,54 @@
+axlFilmCreate( "DRILL" ?negative nil ?undefineLineWidth 0.100 ?sequence 9 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("VIA CLASS/SOLDERMASK_TOP" "VIA CLASS/SOLDERMASK_BOTTOM" "VIA CLASS/PASTEMASK_TOP" "VIA CLASS/PASTEMASK_BOTTOM" "VIA CLASS/FILMMASKTOP" "VIA CLASS/FILMMASKBOTTOM" "VIA CLASS/BOTTOM" "VIA CLASS/TOP" "MANUFACTURING/NCLEGEND-1-2" "DRC ERROR CLASS/ALL" "DRC ERROR CLASS/PACKAGE_TOP" "DRC ERROR CLASS/PACKAGE_BOTTOM" "DRC ERROR CLASS/SOLDERMASK_TOP" "DRC ERROR CLASS/SOLDERMASK_BOTTOM" "DRC ERROR CLASS/PASTEMASK_TOP" "DRC ERROR CLASS/PASTEMASK_BOTTOM" "DRC ERROR CLASS/INTER_LAYER" "DRC ERROR CLASS/BOTTOM" "DRC ERROR CLASS/TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "SILKSCREEN_BOTTOM" ?negative nil ?undefineLineWidth 0.100 ?sequence 8 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("MANUFACTURING/AUTOSILK_BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "SILKSCREEN_TOP" ?negative nil ?undefineLineWidth 0.100 ?sequence 7 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("MANUFACTURING/AUTOSILK_TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "PASTER_BOTTOM" ?negative nil ?undefineLineWidth 0.100 ?sequence 6 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("PIN/PASTEMASK_BOTTOM" "DRC ERROR CLASS/PASTEMASK_BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "PASTER_TOP" ?negative nil ?undefineLineWidth 0.100 ?sequence 5 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("PIN/PASTEMASK_TOP" "DRC ERROR CLASS/PASTEMASK_TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "SOILDER_BOTTOM" ?negative nil ?undefineLineWidth 0.100 ?sequence 4 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("PIN/SOLDERMASK_BOTTOM" "DRC ERROR CLASS/SOLDERMASK_BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "SOILDER_TOP" ?negative nil ?undefineLineWidth 0.100 ?sequence 3 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("PIN/SOLDERMASK_TOP" "DRC ERROR CLASS/SOLDERMASK_TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "BOTTOM" ?negative nil ?undefineLineWidth 0.100 ?sequence 2 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("VIA CLASS/BOTTOM" "PIN/BOTTOM" "ETCH/BOTTOM" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
+axlFilmCreate( "TOP" ?negative nil ?undefineLineWidth 0.100 ?sequence 1 
+	?rotation 0 ?xOffset 0.000 ?yOffset 0.000 ?shapeBoundingBox 100.000 ?mirrored nil ?fullContact nil 
+	?suppressUnconnectPads nil ?drawMissingPadApertures nil ?useApertureRotation nil 
+	?suppressShapeFill nil ?vectorBasedPad t ?drawHolesOnly nil 
+	?domains '(ipc2581 pdf artwork visibility ) ?ipc2581 '() 
+	?layers '("VIA CLASS/TOP" "PIN/TOP" "ETCH/TOP" "BOARD GEOMETRY/DESIGN_OUTLINE" ))
