@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Aug 29 03:23:35 2018
+\t (00:00:01)         Host=DESKTOP-D412P3K User=wangkai Pid=25868 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\wangkai\CloudStation\ephoto\AllegroLib\PADLib\IPC-725»»∑Á∫∏≈Ã\Level A\tr38x54x6_45.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\e (00:00:01) ERROR(SPMHDB-181): Design revision 15.x is too old. Must run the batch dbdoctor to uprev.
+\e (00:00:01) ERROR(SPMHDB-181): Design revision 15.x is too old. Must run the batch dbdoctor to uprev.
+\i (00:01:08) fillin confirm
+\t (00:01:08) Starting new design...
+\i (00:01:08) trapsize 683
+\i (00:01:08) trapsize 699
+\i (00:01:08) trapsize 1113
+\i (00:01:10) exit 
+\t (00:01:10)     Journal end - Wed Aug 29 03:24:44 2018

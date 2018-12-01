@@ -1,0 +1,180 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Aug 29 03:25:57 2018
+\t (00:00:01)         Host=DESKTOP-D412P3K User=wangkai Pid=20904 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\wangkai\CloudStation\ephoto\AllegroLib\PADLib\IPC-725热风焊盘\Level A\tr38x54x6_45.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: C:/Users/wangkai/CloudStation/ephoto/AllegroLib/PADLib/IPC-725热风焊盘/Level A/tr38x54x6_45.dra
+\i (00:00:01) trapsize 11
+\i (00:00:01) trapsize 13
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -1.4 -0.7
+\i (00:00:03) trapsize 6
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -1.4 -0.7
+\i (00:00:03) trapsize 3
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -1.4 -0.7
+\i (00:00:04) trapsize 2
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -1.4 -0.6
+\i (00:00:04) trapsize 1
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.2 -0.5
+\i (00:00:04) trapsize 2
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.2 -0.5
+\i (00:00:04) trapsize 3
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.3 -0.5
+\i (00:00:04) trapsize 6
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -0.3 -0.4
+\i (00:00:04) trapsize 13
+\i (00:00:09) show measure 
+\i (00:00:10) pick grid -0.5 0.1
+\t (00:00:10) last pick:  0.0 0.0
+\i (00:00:13) pick grid 26.4 0.9
+\t (00:00:13) last pick:  25.0 0.0
+\i (00:00:14) pick grid 29.4 0.1
+\t (00:00:14) last pick:  25.0 0.0
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 26.6 0.1
+\i (00:00:15) trapsize 6
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 26.6 0.1
+\i (00:00:15) trapsize 3
+\i (00:00:17) pick grid 28.7 0.6
+\t (00:00:17) last pick:  25.0 0.0
+\i (00:00:18) pick grid 29.9 0.4
+\t (00:00:18) last pick:  25.0 0.0
+\i (00:00:18) pick grid 41.7 0.5
+\t (00:00:18) last pick:  50.0 0.0
+\i (00:00:20) prepopup 34.9 7.6
+\i (00:00:21) done 
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 32.7 4.9
+\i (00:00:23) trapsize 6
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 32.8 4.6
+\i (00:00:23) trapsize 13
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 32.7 4.7
+\i (00:00:23) trapsize 25
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 32.2 4.1
+\i (00:00:23) trapsize 50
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 32.2 3.1
+\i (00:00:24) trapsize 101
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 32.3 3.1
+\i (00:00:24) trapsize 201
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 32.3 3.2
+\t (00:00:24) Grids are drawn 50.0, 50.0 apart for enhanced viewability.
+\i (00:00:24) trapsize 402
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 47.7 3.2
+\i (00:00:25) trapsize 201
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 39.7 -0.8
+\i (00:00:25) trapsize 101
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in -18.6 -0.8
+\i (00:00:25) trapsize 50
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -18.6 -0.8
+\i (00:00:26) trapsize 25
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -18.6 -0.8
+\i (00:00:26) trapsize 13
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -18.6 -0.8
+\i (00:00:26) trapsize 6
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -18.6 -0.8
+\i (00:00:26) trapsize 3
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -7.7 -3.0
+\i (00:00:26) trapsize 6
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out -7.5 -3.1
+\i (00:00:26) trapsize 13
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.0 -5.9
+\i (00:00:27) trapsize 25
+\i (00:00:32) show measure 
+\i (00:00:33) pick grid -0.5 -3.3
+\t (00:00:33) last pick:  0.0 0.0
+\i (00:00:35) pick grid 24.6 -0.8
+\t (00:00:35) last pick:  25.0 0.0
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 20.1 -2.8
+\i (00:00:36) trapsize 13
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 20.2 -2.8
+\i (00:00:36) trapsize 6
+\i (00:00:37) pick grid 25.6 0.0
+\t (00:00:37) last pick:  25.0 0.0
+\i (00:01:01) pick grid -25.5 0.4
+\t (00:01:01) last pick:  -25.0 0.0
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -11.4 0.7
+\i (00:01:16) trapsize 3
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -11.3 0.7
+\i (00:01:16) trapsize 2
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -10.6 0.9
+\i (00:01:16) trapsize 1
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out -8.8 1.4
+\i (00:01:17) trapsize 2
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out -8.8 1.4
+\i (00:01:17) trapsize 3
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -0.9 0.3
+\i (00:01:30) trapsize 6
+\i (00:01:47) setwindow text
+\i (00:01:47) close 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) exit 
+\t (00:01:48)     Journal end - Wed Aug 29 03:27:44 2018

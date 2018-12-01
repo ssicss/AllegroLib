@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : tr38x54x6_45.dra                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Aug 29 03:25:50 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+1 warnings, 0 errors detected, 0 errors  fixed.

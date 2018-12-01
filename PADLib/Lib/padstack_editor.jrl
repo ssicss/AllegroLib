@@ -1,0 +1,18 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Aug 18 03:10:10 2018
+\t (00:00:00)         Host=DESKTOP-D412P3K User=wangkai Pid=13464 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe C:\Users\wangkai\CloudStation\ephoto\AllegroLib\PADLib\Lib\SMDR1r40X2r00.pad
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:02) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:02) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad "Rectangle 1.4000x2.0000" +
+\d (00:00:02) QtSignal 1 1
+\d (00:00:03) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged None
+\d (00:00:03) QtSignal GuidedMaskLayersTab PadShape activated None
+\d (00:00:04) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 3 Pad
+\d (00:00:04) QtSignal GuidedMaskLayersTab LayersTable cellClicked 3 Pad "Rectangle 1.4000x2.0000" +
+\d (00:00:04) QtSignal 3 1
+\d (00:00:05) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged None
+\d (00:00:05) QtSignal GuidedMaskLayersTab PadShape activated None
+\d (00:00:07) QtSignal MainWindow Save triggered
+\t (00:00:09)     Journal end - Sat Aug 18 03:10:19 2018
